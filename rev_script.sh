@@ -56,7 +56,7 @@ pkg install toilet -y
 pkg install figlet -y
 cd
 cd BELAJAR_NANO
-nano scrip.sh
+nano scrip.txt
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
