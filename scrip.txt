@@ -1,0 +1,53 @@
+clear
+<MASUKAN KODE WARNA>
+sleep 1
+echo
+toilet -f big -F gay By <NAMA PEMBUAT SCRIP/NAMA MU>
+echo <KODE WARNA>"<KATA PEMBUKA>"
+echo
+sleep 2
+	CONTOH : 
+echo $red"WELCOME*
+echo
+sleep 2
+	LANJUT PEMBUATAN MENU
+echo <KODE WARNA>"KATA PEMBUKA MENU"
+echo 
+echo <KODE WARNA>"1.) <NAMA MENU>"CONTOH :echo $red"1.) NAMA MENU"
+echo
+echo <KODE WARNA>"2.) <EXIT/CLOSE TERSERAH>"
+echo
+echo <KODE WARNA>
+ < NOTE : JIKA KALIAN MENGGUNAKAN LEBIH DARI 2 ANGKA MAKA ULANGIN LANGKAH 1
+          EXIT/CLOSE/KELUAR SELALU DI ANGKA TERAKHIR.>
+	LANJUT....
+read -p "<KATA PILIHAN>" : " bro
+		CONTOH : read -p "PILIH MANA GAN : " bro
+if [ $bro = 1 ] || [ $bro = 1 ]
+then
+clear
+toilet -f big -F gay <NAMA LU>
+echo <KODE WARNA>"<KATA LOADING>"
+		CONTOH : echo $red"LOADING...."
+sleep 2
+CONTOH :
+echo $red"LOADING. . . . "
+sleep 2
+pkg update -y
+fi
+
+if [ $bro = 2 ] || [ $bro = 2 ]
+then
+clear
+echo <KODE WARNA>
+figlet <KATA PENUTUP>
+echo <KODE WARNA>"<KATA PENUTUP LAGI TAPI BERBEDA DARI YANG ATAS>"
+sleep 2
+exit
+fi
+
+
+CATATAN : JIKA LEBIH DARI 2 MENU CUKUP ULANGI CARA YANG PERTAMA DAN INGAT
+	  EXIT/KELUAR SELALU BERADA DI PALING BAWAH.
+
+SELAMAT BELAJAR GANN.. :)
